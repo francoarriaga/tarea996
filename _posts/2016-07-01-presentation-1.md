@@ -29,11 +29,11 @@ slides:
 
 {% for slide in page.slides %}
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
-  <h1 style="font-size: 40px;">{{slide.title}}</h1>
-   <div style="font-size: 30px;">
+  <h1 style="font-size: 20px;">{{slide.title}}</h1>
+   <div style="font-size: 10px;">
    {{ slide.slide-data | markdownify }}
   </div>
-  
+  # <span style="font-size: 15;">Sensores Ópticos</span>
 </section>
 {% endfor %}
 
