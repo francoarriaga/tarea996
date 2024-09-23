@@ -29,8 +29,8 @@ slides:
 
 {% for slide in page.slides %}
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
-  <h1 style="font-size: 3em;">{{slide.title}}</h1>
-   <div style="font-size: 1.5em;">
+  <h1 style="font-size: 40px;">{{slide.title}}</h1>
+   <div style="font-size: 30px;">
    {{ slide.slide-data | markdownify }}
   </div>
   
