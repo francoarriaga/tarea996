@@ -29,8 +29,11 @@ slides:
 
 {% for slide in page.slides %}
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
-  <h1>{{slide.title}}</h1>
-  {{ slide.slide-data | markdownify }}
+  <h1 style="font-size: 3em;">{{slide.title}}</h1>
+   <div style="font-size: 1.5em;">
+   {{ slide.slide-data | markdownify }}
+  </div>
+  
 </section>
 {% endfor %}
 
