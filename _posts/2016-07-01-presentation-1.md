@@ -8,7 +8,7 @@ slides:
    slide-data: This is first slide
      
  - title: sensores opticos
-   slide-data: |
+   slide-data: | 
    # Sensores Ópticos
    
       Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
