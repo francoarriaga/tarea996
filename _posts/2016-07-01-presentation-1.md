@@ -31,9 +31,14 @@ slides:
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
   <h1 style="font-size: 20px;">{{slide.title}}</h1>
    <div style="font-size: 10px;">
-   {{ slide.slide-data | markdownify }}
-  </div>
- 
+     {{ slide.slide-data | markdownify }}
+   </div>
 </section>
+
+<style>
+  h1 { font-size: 24px; } /* Estilo para títulos generados por # */
+  h2 { font-size: 18px; } /* Estilo para subtítulos generados por ## */
+  p { font-size: 14px; }  /* Estilo para el texto general */
+</style>
 {% endfor %}
 
