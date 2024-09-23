@@ -19,7 +19,6 @@ slides:
       Un sensor óptico consta de:
 - **Emisor de luz**: Puede ser un LED, láser o infrarrojo.
 - **Receptor**: Fototransistor o fotodiodo.
-- 
       El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La 
       variación 
       de luz se traduce en una señal eléctrica que se procesa para tomar decisiones automáticas.
