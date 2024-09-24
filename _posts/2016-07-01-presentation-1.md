@@ -23,8 +23,14 @@ slides:
      El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La 
      variación de luz se traduce en una señal eléctrica que se procesa para tomar decisiones automáticas.
 
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Funcionamiento general
+   slide-data: |
+   ### 2. Funcionamiento general
+
+   El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
+   **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
+   propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+
 ---
 
 {% for slide in page.slides %}
