@@ -30,13 +30,12 @@ slides:
       propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
  - title: Funcionamiento general
    slide-data: | Características principales
-  - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
-  - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de alta   
-  velocidad.
-  - **Tamaño compacto**: Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.
-  - **Inmunidad a interferencias electromagnéticas**: Al utilizar luz, no se ven afectados por campos electromagnéticos.
-  - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como los  
-  **LIDAR**).
+   - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
+   - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de alta   
+    velocidad.
+   - **Tamaño compacto**: Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.
+   - **Inmunidad a interferencias electromagnéticas**: Al utilizar luz, no se ven afectados por campos electromagnéticos.
+   - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como los     **LIDAR**).
 
 ---
 
