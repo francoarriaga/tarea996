@@ -25,11 +25,9 @@ slides:
 
  - title: Funcionamiento general
    slide-data: |
-   ### 2. Funcionamiento general
-
-   El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
-   **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
-   propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+      El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
+      **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
+      propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
 
 ---
 
