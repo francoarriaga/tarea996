@@ -9,13 +9,13 @@ slides:
      
  - title: Sensores Ópticos
    slide-data: |
-     # Sensores Ópticos
+     ## Sensores Ópticos
 
      Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
      son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y 
      recepción de luz.
 
-     ## Funcionamiento
+     ### Funcionamiento
      Un sensor óptico consta de:
      - **Emisor de luz**: Puede ser un LED, láser o infrarrojo.
      - **Receptor**: Fototransistor o fotodiodo.
