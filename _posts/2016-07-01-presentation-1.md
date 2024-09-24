@@ -26,14 +26,6 @@ slides:
  - title: Slide 3
    slide-data: This is third slide
 ---
-
-{% for slide in page.slides %}
-<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
-  <h1 style="font-size: 20px;">{{slide.title}}</h1>
-   <div style="font-size: 10px;">
-     {{ slide.slide-data | markdownify }}
-   </div>
-</section>
 <style>
   h1 {
     font-size: 18px; /* Cambia el tamaño de # */
@@ -43,5 +35,13 @@ slides:
     font-size: 14px; /* Cambia el tamaño de ## */
   }
 </style>
+{% for slide in page.slides %}
+<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
+  <h1 style="font-size: 20px;">{{slide.title}}</h1>
+   <div style="font-size: 10px;">
+     {{ slide.slide-data | markdownify }}
+   </div>
+</section>
+
 {% endfor %}
 
