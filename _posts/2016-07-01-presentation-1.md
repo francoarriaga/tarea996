@@ -9,7 +9,7 @@ slides:
      
  - title: Sensores Ópticos
    slide-data: |
-     ## Sensores Ópticos
+     ### Sensores Ópticos
 
      Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
      son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y 
@@ -147,31 +147,31 @@ slides:
         
  - title: Sensores de proximidad
    slide-data: |
-      ## Sensores de Proximidad
+      ### Sensores de Proximidad
 
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
       sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
       seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
 
-      ### 1. Tipos de Sensores de Proximidad
+      #### 1. Tipos de Sensores de Proximidad
 
-      #### a) Sensores Inductivos
+      ##### a) Sensores Inductivos
       - **Funcionamiento**: Utilizan un campo electromagnético para detectar objetos metálicos. Cuando un objeto metálico se acerca al 
       sensor, altera el campo electromagnético, lo que provoca un cambio en la señal de salida.
 
-      #### b) Sensores Capacitivos
+      ##### b) Sensores Capacitivos
       - **Funcionamiento**: Miden cambios en la capacitancia causados por la proximidad de un objeto, ya sea metálico o no metálico 
       (como plásticos, líquidos o madera). Funcionan creando un campo eléctrico que se ve afectado por la presencia del objeto.
 
-      #### c) Sensores Ópticos
+      ##### c) Sensores Ópticos
       - **Funcionamiento**: Utilizan luz (normalmente infrarroja) para detectar la presencia de objetos. Pueden ser sensores de 
       reflexión (el emisor y el receptor están en el mismo dispositivo) o de barrera (emisor y receptor separados).
 
-      #### d) Sensores Ultrasónicos
+      ##### d) Sensores Ultrasónicos
       - **Funcionamiento**: Emplean ondas ultrasónicas para detectar la distancia a un objeto. El sensor emite un pulso de sonido y mide 
       el tiempo que tarda en regresar después de rebotar en el objeto.
 
-      #### e) Sensores de Proximidad Magnéticos
+      ##### e) Sensores de Proximidad Magnéticos
       - **Funcionamiento**: Detectan la presencia de objetos ferromagnéticos utilizando un imán o un sensor Hall. Cuando un objeto 
       magnético se acerca, provoca un cambio en la señal de salida del sensor.
 
