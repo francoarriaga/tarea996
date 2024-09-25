@@ -39,6 +39,17 @@ slides:
      - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como 
      los **LIDAR**).
 
+  - title: Modos de comunicación
+    slide-data: |
+      ## Modo de comunicación
+
+      Los sensores ópticos pueden utilizar diferentes métodos para transmitir su señal, incluyendo:
+
+      - **Señal analógica**: Donde la salida es una variación continua que corresponde a la intensidad de la luz recibida.
+      - **Señal digital**: Que representa condiciones específicas como "presencia" o "ausencia" de un objeto.
+      - **Protocolos de comunicación**: Sensores más avanzados pueden usar buses de comunicación como **I2C**, **RS-485**, o incluso 
+      tecnologías inalámbricas como **Bluetooth** o **Wi-Fi** para transmitir información en sistemas más complejos.
+
 ---
 
 {% for slide in page.slides %}
