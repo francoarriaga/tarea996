@@ -132,7 +132,9 @@ slides:
 
  - title: Modo de comunicación del sensor de presión
    slide-data: |
-   Los sensores de proximidad son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
+      Los sensores de proximidad son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación sin 
+      necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
+      seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
       Los **sensores de presión** tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
       - **Señal analógica**: La mayoría de los sensores simples emiten una señal analógica en forma de voltaje (mV/V, 0-10V, 0-5V) o 
       corriente (4-20 mA), que puede ser procesada directamente por controladores o convertida en digital.
