@@ -147,7 +147,6 @@ slides:
         
  - title: Sensores de proximidad
    slide-data: |
-      ### Sensores de Proximidad
 
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
       sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
