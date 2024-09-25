@@ -58,9 +58,9 @@ slides:
      - **Protocolos de comunicación**: Sensores más avanzados pueden usar buses de comunicación como **I2C**, **RS-485**, o incluso 
      tecnologías inalámbricas como **Bluetooth** o **Wi-Fi** para transmitir información en sistemas más complejos.
 
- - title: Sensores de temperatura
+ - title: 
    slide-data: |
-     ### Sensores de Temperatura
+     <h1 style="font-size: 50px;">Sensores de temperatura </h1>
      Los **sensores de temperatura** son dispositivos utilizados para medir la temperatura en diferentes ambientes y procesos. Existen 
      varios tipos de sensores de temperatura, cada uno con principios de funcionamiento y aplicaciones específicas. A continuación se 
      detallan los tipos más comunes:
@@ -98,9 +98,9 @@ slides:
       - **Protocolo de comunicación inalámbrica**: Algunos sensores de temperatura infrarrojos y semiconductores más avanzados pueden 
       comunicarse a través de **Wi-Fi**, **Bluetooth** o **Zigbee** para aplicaciones como monitoreo remoto.
 
- - title: Sensor de presión
+ - title: 
    slide-data: |
-
+      <h1 style="font-size: 50px;">Sensor de presión </h1>
       Los **sensores de presión** son dispositivos que miden la presión de un fluido (líquido o gas) y la convierten en una señal 
       eléctrica. Son ampliamente utilizados en aplicaciones industriales, automotrices, médicas y en sistemas de control.
 
@@ -156,9 +156,9 @@ slides:
       - **Comunicación inalámbrica**: Sensores más modernos pueden transmitir datos de presión mediante **Wi-Fi**, **Bluetooth**, o 
       **Zigbee**, especialmente en aplicaciones de monitoreo remoto.
         
- - title: Sensores de proximidad
+ - title: 
    slide-data: |
-
+      <h1 style="font-size: 50px;">Sensores de proximidad</h1>
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
       sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
       seguridad. 
