@@ -112,6 +112,13 @@ slides:
   
       - **Sensores de presión piezorresistivos**: Cambian su resistencia en función de la presión aplicada a un material semiconductor.
 
+ - title: Funcionamiento del sensor de presión
+   slide-data: |
+      La mayoría de los **sensores de presión** convierten la fuerza ejercida por un fluido en una señal eléctrica, ya sea a través de 
+      principios como la **piezorresistencia**, la **capacitancia**, la **piezoelectricidad** o el **desplazamiento de un diafragma**. 
+      La señal obtenida se interpreta como presión y puede estar en unidades como pascales (Pa), libras por pulgada cuadrada (psi) o 
+      bares (bar).
+
 ---
 
 {% for slide in page.slides %}
