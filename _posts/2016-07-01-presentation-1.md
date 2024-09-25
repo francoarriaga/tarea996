@@ -118,6 +118,17 @@ slides:
       principios como la **piezorresistencia**, la **capacitancia**, la **piezoelectricidad** o el **desplazamiento de un diafragma**. 
       La señal obtenida se interpreta como presión y puede estar en unidades como pascales (Pa), libras por pulgada cuadrada (psi) o 
       bares (bar).
+ - title: Características del sensor de presión
+   slide-data: |
+      - **Precisión**: Algunos sensores, como los piezorresistivos y capacitivos, ofrecen alta precisión en sus mediciones.
+      - **Rango de presión**: Varía según el tipo. Los sensores de presión absoluta pueden medir presiones desde el vacío absoluto hasta 
+      miles de pascales. Los sensores industriales suelen medir desde milibares hasta varios cientos de bares.
+      - **Durabilidad**: Sensores piezoeléctricos y piezorresistivos son robustos y adecuados para aplicaciones en condiciones extremas 
+      de temperatura y presión.
+      - **Sensibilidad**: Los sensores piezoeléctricos son altamente sensibles a los cambios rápidos de presión, mientras que los 
+      sensores capacitivos son más adecuados para mediciones estables y precisas.
+      - **Tamaño**: Algunos sensores, como los capacitivos y piezorresistivos, pueden ser muy compactos, lo que permite su integración 
+      en dispositivos pequeños.
 
 ---
 
