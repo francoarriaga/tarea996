@@ -170,10 +170,6 @@ slides:
       - **Funcionamiento**: Emplean ondas ultrasónicas para detectar la distancia a un objeto. El sensor emite un pulso de sonido y mide 
       el tiempo que tarda en regresar después de rebotar en el objeto.
 
-      ##### e) Sensores de Proximidad Magnéticos
-      - **Funcionamiento**: Detectan la presencia de objetos ferromagnéticos utilizando un imán o un sensor Hall. Cuando un objeto 
-      magnético se acerca, provoca un cambio en la señal de salida del sensor.
-
  - title: Funcionamiento de los sensores de proximidad
    slide-data: |
       Los **sensores de proximidad** funcionan creando un campo físico (magnético, eléctrico, acústico o luminoso) y detectando cambios 
