@@ -62,8 +62,12 @@ slides:
      - **Sensores de temperatura de semiconductores**: Basados en diodos o transistores que cambian su corriente de salida según la 
      temperatura.
      - **Sensores Infrarrojos (IR)**: Miden la radiación térmica emitida por un objeto y calculan la temperatura sin contacto físico.
+ - title: Funcionamiento de los sensores de temperatura
+   slide-data: |
+     El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
+     **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
+     propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
 
-  
 ---
 
 {% for slide in page.slides %}
