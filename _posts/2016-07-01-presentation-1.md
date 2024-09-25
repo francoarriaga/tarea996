@@ -41,8 +41,6 @@ slides:
 
   - title: Modos de comunicación
     slide-data: |
-      ## Modo de comunicación
-
       Los sensores ópticos pueden utilizar diferentes métodos para transmitir su señal, incluyendo:
 
       - **Señal analógica**: Donde la salida es una variación continua que corresponde a la intensidad de la luz recibida.
