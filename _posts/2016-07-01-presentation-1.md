@@ -132,8 +132,8 @@ slides:
 
  - title: Modo de comunicación del sensor de presión
    slide-data: |
+   Los sensores de proximidad son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
       Los **sensores de presión** tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
-
       - **Señal analógica**: La mayoría de los sensores simples emiten una señal analógica en forma de voltaje (mV/V, 0-10V, 0-5V) o 
       corriente (4-20 mA), que puede ser procesada directamente por controladores o convertida en digital.
   
@@ -142,6 +142,36 @@ slides:
   
       - **Comunicación inalámbrica**: Sensores más modernos pueden transmitir datos de presión mediante **Wi-Fi**, **Bluetooth**, o 
       **Zigbee**, especialmente en aplicaciones de monitoreo remoto.
+        
+ - title: Sensores de proximidad
+   slide-data: |
+      ## Sensores de Proximidad
+
+      Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
+      sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
+      seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
+
+      ### 1. Tipos de Sensores de Proximidad
+
+      #### a) Sensores Inductivos
+      - **Funcionamiento**: Utilizan un campo electromagnético para detectar objetos metálicos. Cuando un objeto metálico se acerca al 
+      sensor, altera el campo electromagnético, lo que provoca un cambio en la señal de salida.
+
+      #### b) Sensores Capacitivos
+      - **Funcionamiento**: Miden cambios en la capacitancia causados por la proximidad de un objeto, ya sea metálico o no metálico 
+      (como plásticos, líquidos o madera). Funcionan creando un campo eléctrico que se ve afectado por la presencia del objeto.
+
+      #### c) Sensores Ópticos
+      - **Funcionamiento**: Utilizan luz (normalmente infrarroja) para detectar la presencia de objetos. Pueden ser sensores de 
+      reflexión (el emisor y el receptor están en el mismo dispositivo) o de barrera (emisor y receptor separados).
+
+      #### d) Sensores Ultrasónicos
+      - **Funcionamiento**: Emplean ondas ultrasónicas para detectar la distancia a un objeto. El sensor emite un pulso de sonido y mide 
+      el tiempo que tarda en regresar después de rebotar en el objeto.
+
+      #### e) Sensores de Proximidad Magnéticos
+      - **Funcionamiento**: Detectan la presencia de objetos ferromagnéticos utilizando un imán o un sensor Hall. Cuando un objeto 
+      magnético se acerca, provoca un cambio en la señal de salida del sensor.
 
 ---
 
