@@ -77,6 +77,41 @@ slides:
      - **Inmunidad a interferencias electromagnéticas**: Al utilizar luz, no se ven afectados por campos electromagnéticos.
      - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como        los **LIDAR**).
 
+ - title: Modo de comunicación de los sensores de temperatura
+   slide-data: |
+      Los **sensores de temperatura** pueden comunicar su medición de diferentes maneras:
+      - **Señal analógica**: La mayoría de los sensores más simples (termopares, RTD, termistores) generan una señal analógica 
+      proporcional al cambio de temperatura. Esta señal necesita ser convertida para su interpretación.
+      - **Señal digital**: Sensores más modernos, como los de semiconductores, envían directamente señales digitales, a menudo 
+      utilizando buses de comunicación como **I2C**, **SPI** o **1-Wire**.
+      - **Protocolo de comunicación inalámbrica**: Algunos sensores de temperatura infrarrojos y semiconductores más avanzados pueden 
+      comunicarse a través de **Wi-Fi**, **Bluetooth** o **Zigbee** para aplicaciones como monitoreo remoto.
+
+ - title: Sensor de presión
+   slide-data: |
+
+      Los **sensores de presión** son dispositivos que miden la presión de un fluido (líquido o gas) y la convierten en una señal 
+      eléctrica. Son ampliamente utilizados en aplicaciones industriales, automotrices, médicas y en sistemas de control.
+
+      ### Tipos de sensores de presión
+
+      - **Sensores de presión absoluta**: Miden la presión con respecto a un vacío perfecto (0 Pa). Están calibrados para medir la 
+      presión absoluta, sin referencia a la presión atmosférica.
+  
+      - **Sensores de presión manométrica**: Miden la presión relativa con respecto a la presión atmosférica. Se utilizan para medir 
+      presiones superiores o inferiores a la presión ambiental.
+  
+      - **Sensores de presión diferencial**: Miden la diferencia entre dos puntos de presión. Son útiles para aplicaciones en las que se 
+      necesita comparar presiones en distintos puntos de un sistema.
+  
+      - **Sensores de presión piezoeléctricos**: Utilizan materiales piezoeléctricos que generan una carga eléctrica cuando se someten a 
+      una fuerza o presión.
+  
+      - **Sensores de presión capacitivos**: La presión cambia la distancia entre dos placas de un condensador, lo que varía su 
+      capacitancia. Este cambio se traduce en una señal eléctrica.
+  
+      - **Sensores de presión piezorresistivos**: Cambian su resistencia en función de la presión aplicada a un material semiconductor.
+
 ---
 
 {% for slide in page.slides %}
