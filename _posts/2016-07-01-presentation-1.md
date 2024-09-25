@@ -9,7 +9,7 @@ slides:
     <h1 style="font-size: 50px;">INSTITUTO TECNOLOGICO DE CANCUN </h1>
     <ul style="font-size: 30px;">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
-       <li>NOMBRE DEL DOCENTE: DR. ISMAES JIMÉNEZ SÁNCHEZ.</li>
+       <li>NOMBRE DEL DOCENTE: DR. ISMAEL JIMÉNEZ SÁNCHEZ.</li>
        <li>NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.</li>
        <li>TAREA: “REALIZAR UNA PRESENTACIÓN DE LA UNIDAD 1, CON MARKDOWN, USANDO https://slides.webjeda.com/ EN SU PROPIO REPOSITORIO 
             DE SLIDES”.
@@ -18,9 +18,9 @@ slides:
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
      
- - title: Sensores Ópticos
+ - title: 
    slide-data: |
-     ### Sensores Ópticos
+     <h1 style="font-size: 50px;">Sensores Ópticos </h1>
 
      Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
      son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y 
