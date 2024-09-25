@@ -4,8 +4,18 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Unidad 1
-   slide-data: This is first slide
+ - title: INSTITUTO TECNOLOGICO DE CANCUN 
+   slide-data: |
+    <ul style="font-size: 30px;">
+       <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
+       <li>NOMBRE DEL DOCENTE: DR. ISMAES JIMÉNEZ SÁNCHEZ.</li>
+       <li>NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.</li>
+       <li>TAREA: “REALIZAR UNA PRESENTACIÓN DE LA UNIDAD 2, CON MARKDOWN, USANDO https://slides.webjeda.com/ EN SU PROPIO REPOSITORIO 
+            DE SLIDES”.
+       </li>
+       <li>NOMBRE DE LA CARRERA: INGENIERÍA EN SISTEMAS COMPUTACIONALES.</li>
+       <li>GRADO: NOVENO SEMESTRE.</li>
+     </ul>
      
  - title: Sensores Ópticos
    slide-data: |
