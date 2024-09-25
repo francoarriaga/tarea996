@@ -130,6 +130,19 @@ slides:
       - **Tamaño**: Algunos sensores, como los capacitivos y piezorresistivos, pueden ser muy compactos, lo que permite su integración 
       en dispositivos pequeños.
 
+ - title: Modo de comunicación del sensor de presión
+   slide-data: |
+      Los **sensores de presión** tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
+
+      - **Señal analógica**: La mayoría de los sensores simples emiten una señal analógica en forma de voltaje (mV/V, 0-10V, 0-5V) o 
+      corriente (4-20 mA), que puede ser procesada directamente por controladores o convertida en digital.
+  
+      - **Señal digital**: Sensores más avanzados convierten la señal a formato digital y pueden comunicarse a través de protocolos 
+      estándar como **I2C**, **SPI**, **RS-485**, o **Modbus**.
+  
+      - **Comunicación inalámbrica**: Sensores más modernos pueden transmitir datos de presión mediante **Wi-Fi**, **Bluetooth**, o 
+      **Zigbee**, especialmente en aplicaciones de monitoreo remoto.
+
 ---
 
 {% for slide in page.slides %}
