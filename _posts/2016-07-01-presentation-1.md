@@ -150,7 +150,7 @@ slides:
 
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
       sin necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
-      seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
+      seguridad. 
 
       #### 1. Tipos de Sensores de Proximidad
 
@@ -173,6 +173,32 @@ slides:
       ##### e) Sensores de Proximidad Magnéticos
       - **Funcionamiento**: Detectan la presencia de objetos ferromagnéticos utilizando un imán o un sensor Hall. Cuando un objeto 
       magnético se acerca, provoca un cambio en la señal de salida del sensor.
+
+ - title: Funcionamiento de los sensores de proximidad
+   slide-data: |
+      Los **sensores de proximidad** funcionan creando un campo físico (magnético, eléctrico, acústico o luminoso) y detectando cambios 
+      en este campo provocados por la presencia de un objeto. Esta alteración genera una señal que es procesada y convertida en una 
+      salida (normalmente digital), que indica la presencia o ausencia del objeto.
+   
+ - title: Caracteristicas de los sensores de proximidad
+   slide-data: |
+      - **Rango de detección**: Varía según el tipo de sensor, desde unos pocos milímetros hasta varios metros.
+      - **Durabilidad**: La mayoría son robustos y pueden trabajar en condiciones difíciles.
+      - **Sensibilidad**: Algunos sensores, como los ópticos y ultrasónicos, son muy sensibles y pueden detectar objetos en movimiento.
+      - **Inmunidad a interferencias**: Los sensores inductivos y capacitivos pueden ser afectados por condiciones ambientales, mientras 
+      que los ópticos son sensibles a la luz ambiental.
+ - title: Modo de comunicación de los sensores de proximidad
+   slide-data: |
+      Los **sensores de proximidad** pueden tener diferentes formas de comunicar sus señales:
+
+      - **Salida digital**: La mayoría de los sensores proporcionan una señal de encendido/apagado (ON/OFF) cuando se detecta un objeto. 
+      Esta es la forma más común de salida.
+  
+      - **Salida analógica**: Algunos sensores pueden proporcionar una señal analógica proporcional a la distancia o la proximidad del 
+      objeto.
+  
+      - **Protocolos de comunicación**: Los sensores más avanzados pueden utilizar protocolos de comunicación como **I2C**, **RS-485**, 
+      o **Modbus** para transmitir datos a sistemas de control.
 
 ---
 
