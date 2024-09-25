@@ -47,6 +47,23 @@ slides:
      - **Protocolos de comunicación**: Sensores más avanzados pueden usar buses de comunicación como **I2C**, **RS-485**, o incluso 
      tecnologías inalámbricas como **Bluetooth** o **Wi-Fi** para transmitir información en sistemas más complejos.
 
+ - title: Sensores de temperatura
+   slide-data: |
+     ### Sensores de Temperatura
+     Los **sensores de temperatura** son dispositivos utilizados para medir la temperatura en diferentes ambientes y procesos. Existen 
+     varios tipos de sensores de temperatura, cada uno con principios de funcionamiento y aplicaciones específicas. A continuación se 
+     detallan los tipos más comunes:
+     - **Termopares**: Generan una pequeña corriente eléctrica cuando se unen dos metales diferentes y están sometidos a temperaturas 
+     distintas. La diferencia de temperatura crea un voltaje, que se mide y traduce a una lectura de temperatura.
+     - **Termistores**: Son resistencias que cambian su valor en función de la temperatura. Pueden ser **NTC** (Coeficiente de 
+     Temperatura Negativo) o **PTC** (Coeficiente de Temperatura Positivo).
+     - **RTD (Detector de Temperatura por Resistencia)**: Utilizan metales, comúnmente platino, cuya resistencia eléctrica cambia con la 
+     temperatura.
+     - **Sensores de temperatura de semiconductores**: Basados en diodos o transistores que cambian su corriente de salida según la 
+     temperatura.
+     - **Sensores Infrarrojos (IR)**: Miden la radiación térmica emitida por un objeto y calculan la temperatura sin contacto físico.
+
+  
 ---
 
 {% for slide in page.slides %}
