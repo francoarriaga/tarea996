@@ -5,7 +5,7 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title:
- - background: "./images/fondoarrugado.jpeg"
+ - background: "../images/fondogris.jpg"
    slide-data: |
     
     <h1 style="font-size: 50px;">INSTITUTO TECNOLOGICO DE CANCUN </h1>
