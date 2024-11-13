@@ -4,9 +4,10 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: 
+ - title:
+ - background: "./images/fondoarrugado.jpeg"
    slide-data: |
-   background: "./images/fondoarrugado.jpeg"
+    
     <h1 style="font-size: 50px;">INSTITUTO TECNOLOGICO DE CANCUN </h1>
     <ul style="font-size: 30px;">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
