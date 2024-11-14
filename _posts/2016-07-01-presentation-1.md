@@ -37,7 +37,7 @@ slides:
     - **Receptor**: Fototransistor o fotodiodo. 
     
     El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La variación de luz se traduce en una señal eléctrica que 
-     se 
+    se 
     procesa para tomar decisiones automáticas.
     
     ![Funcionamiento del sensor óptico](../images/sensor_optico_funcionamiento.png)
