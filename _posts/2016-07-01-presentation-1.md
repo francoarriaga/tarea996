@@ -371,7 +371,7 @@ slides:
 
  - background: "../images/fondolineas.png"
    slide-data: |
-   <h2>Modo de comunicación de los sensores de proximidad</h2>
+      <h2>Modo de comunicación de los sensores de proximidad</h2>
       Los **sensores de proximidad** pueden tener diferentes formas de comunicar sus señales:
 
       - **Salida digital**: La mayoría de los sensores proporcionan una señal de encendido/apagado (ON/OFF) cuando se detecta un objeto. 
