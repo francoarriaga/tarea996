@@ -77,14 +77,19 @@ slides:
  - title: 
  - background: "../images/fondolineas.png"
    slide-data: | 
-    *Características principales
-     - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
-     - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de 
-     alta velocidad.
-     - **Tamaño compacto**: Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.
-     - **Inmunidad a interferencias electromagnéticas**: Al utilizar luz, no se ven afectados por campos electromagnéticos.
-     - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como 
-     los **LIDAR**).
+     <div style="width: 100%;">
+
+      <h2>Características principales</h2>
+      <ul>
+        <li><strong>Precisión</strong>: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.</li>
+        <li><strong>Velocidad de respuesta</strong>: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de alta velocidad.</li>
+        <li><strong>Tamaño compacto</strong>: Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.</li>
+        <li><strong>Inmunidad a interferencias electromagnéticas</strong>: Al utilizar luz, no se ven afectados por campos electromagnéticos.</li>
+        <li><strong>Alcance</strong>: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como los <strong>LIDAR</strong>).</li>
+      </ul>
+
+     </div>
+
 
  - title: 
  - background: "../images/fondolineas.png"
