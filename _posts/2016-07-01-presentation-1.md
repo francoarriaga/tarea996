@@ -19,9 +19,9 @@ slides:
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
 
-  - title:
-    background: "../images/fondolineas.png"
-    slide-data: |
+ - title:
+   background: "../images/fondolineas.png"
+   slide-data: |
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
         <!-- Sección de texto a la izquierda -->
