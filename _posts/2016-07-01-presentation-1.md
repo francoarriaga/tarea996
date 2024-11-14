@@ -85,7 +85,8 @@ slides:
      los **LIDAR**).
 
  - title: Modos de comunicación
-  slide-data: |
+ - background: "../images/fondolineas.png"
+   slide-data: |
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
       <!-- Columna 1: Señal Analógica -->
