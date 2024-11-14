@@ -18,8 +18,10 @@ slides:
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
      
- - title: 
+ - title:
+   - background: "../images/fondolineas.png"
    slide-data: |
+   
      <h1 style="font-size: 50px;">Sensores Ópticos </h1>
 
      Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
