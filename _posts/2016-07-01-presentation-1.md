@@ -304,21 +304,30 @@ slides:
        </ul>
 
 
- - title: Modo de comunicación del sensor de presión
  - background: "../images/fondomorado.png"
    slide-data: |
-      Los sensores de proximidad son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación sin 
-      necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
-      seguridad. A continuación se describen los tipos, funcionamiento, características y modos de comunicación de estos sensores.
-      Los **sensores de presión** tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
-      - **Señal analógica**: La mayoría de los sensores simples emiten una señal analógica en forma de voltaje (mV/V, 0-10V, 0-5V) o 
-      corriente (4-20 mA), que puede ser procesada directamente por controladores o convertida en digital.
-  
-      - **Señal digital**: Sensores más avanzados convierten la señal a formato digital y pueden comunicarse a través de protocolos 
-      estándar como **I2C**, **SPI**, **RS-485**, o **Modbus**.
-  
-      - **Comunicación inalámbrica**: Sensores más modernos pueden transmitir datos de presión mediante **Wi-Fi**, **Bluetooth**, o 
-      **Zigbee**, especialmente en aplicaciones de monitoreo remoto.
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+        <!-- Sección de texto a la izquierda -->
+            <div style="width: 60%; padding-right: 20px;">
+          <h2>Modo de comunicación del sensor de presión</h2>
+          <p>
+            Los <strong>sensores de presión</strong> tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
+          </p>
+          <ul>
+            <li><strong>Señal analógica</strong>: La mayoría de los sensores simples emiten una señal analógica en forma de voltaje (mV/V, 0-10V, 0-5V) o corriente (4-20 mA), que puede ser procesada directamente por controladores o convertida en digital.</li>
+            <li><strong>Señal digital</strong>: Sensores más avanzados convierten la señal a formato digital y pueden comunicarse a través de protocolos estándar como <strong>I2C</strong>, <strong>SPI</strong>, <strong>RS-485</strong>, o <strong>Modbus</strong>.</li>
+            <li><strong>Comunicación inalámbrica</strong>: Sensores más modernos pueden transmitir datos de presión mediante <strong>Wi-Fi</strong>, <strong>Bluetooth</strong>, o <strong>Zigbee</strong>, especialmente en aplicaciones de monitoreo remoto.</li>
+          </ul>
+          </div>
+
+          <!-- Imagen a la derecha -->
+          <div style="width: 35%; display: flex; justify-content: center;">
+            <img src="../images/analogicodigital.png" alt="Sensor de presión" style="width: 100%;">
+          </div>
+
+      </div>
+
         
  - title: 
    slide-data: |
