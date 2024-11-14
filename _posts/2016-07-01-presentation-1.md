@@ -30,19 +30,18 @@ slides:
     
      ![Emisor de luz](../images/emisor_luz.png) ![Receptor de luz](../images/receptor.png) ![Funcionamiento del sensor óptico](../images/sensor_optico_funcionamiento.png)
     
-    ---
+     ### Funcionamiento
     
-    ### Funcionamiento
+     Un sensor óptico consta de:
     
-    Un sensor óptico consta de:
+     - **Emisor de luz**: Puede ser un LED, láser o infrarrojo.
+     - **Receptor**: Fototransistor o fotodiodo. 
     
-    - **Emisor de luz**: Puede ser un LED, láser o infrarrojo.
-    - **Receptor**: Fototransistor o fotodiodo. 
+     El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La variación de luz se traduce en una señal eléctrica que 
+      se 
+     procesa para tomar decisiones automáticas.
     
-    El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La variación de luz se traduce en una señal eléctrica que se 
-    procesa para tomar decisiones automáticas.
-    
-    ![Funcionamiento del sensor óptico](../images/sensor_optico_funcionamiento.png)
+     ![Funcionamiento del sensor óptico](../images/sensor_optico_funcionamiento.png)
 
  - title: Funcionamiento general
    slide-data: |
