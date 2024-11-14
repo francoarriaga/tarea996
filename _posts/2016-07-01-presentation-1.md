@@ -306,11 +306,12 @@ slides:
 
  - background: "../images/fondomorado.png"
    slide-data: |
+      <h2>Modo de comunicación del sensor de presión</h2>
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
         <!-- Sección de texto a la izquierda -->
             <div style="width: 60%; padding-right: 20px;">
-          <h2>Modo de comunicación del sensor de presión</h2>
+          
           <p>
             Los <strong>sensores de presión</strong> tienen diferentes formas de transmitir la información de presión que miden, entre ellas:
           </p>
