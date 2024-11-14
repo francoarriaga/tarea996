@@ -4,6 +4,7 @@ layout: post
 permalink: /presentation-1/
 
 slides:
+- title: 
   background: "../images/fondogris.jpg"
   slide-data: |
     <h1 style="font-size: 50px; color:black">INSTITUTO TECNOLOGICO DE CANCUN </h1>
