@@ -199,7 +199,7 @@ slides:
       </table>
 
  - title: 
- - background: "../images/fondoverde.jpg"
+   background: "../images/fondoverde.jpg"
    slide-data: |
       <h2>Modo de comunicación de los sensores de temperatura</h2>
       <p>
