@@ -328,8 +328,7 @@ slides:
 
       </div>
 
-        
- - title: 
+   background: "../images/fondolineas.png"
    slide-data: |
       <h1 style="font-size: 50px;">Sensores de proximidad</h1>
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
@@ -354,21 +353,25 @@ slides:
       - **Funcionamiento**: Emplean ondas ultrasónicas para detectar la distancia a un objeto. El sensor emite un pulso de sonido y mide 
       el tiempo que tarda en regresar después de rebotar en el objeto.
 
- - title: Funcionamiento de los sensores de proximidad
+ - background: "../images/fondolineas.png"
    slide-data: |
+      <h2>Funcionamiento de los sensores de proximidad</h2>
       Los **sensores de proximidad** funcionan creando un campo físico (magnético, eléctrico, acústico o luminoso) y detectando cambios 
       en este campo provocados por la presencia de un objeto. Esta alteración genera una señal que es procesada y convertida en una 
       salida (normalmente digital), que indica la presencia o ausencia del objeto.
    
- - title: Caracteristicas de los sensores de proximidad
+ - background: "../images/fondolineas.png"
    slide-data: |
+      <h2>Caracteristicas de los sensores de proximidad</h2>
       - **Rango de detección**: Varía según el tipo de sensor, desde unos pocos milímetros hasta varios metros.
       - **Durabilidad**: La mayoría son robustos y pueden trabajar en condiciones difíciles.
       - **Sensibilidad**: Algunos sensores, como los ópticos y ultrasónicos, son muy sensibles y pueden detectar objetos en movimiento.
       - **Inmunidad a interferencias**: Los sensores inductivos y capacitivos pueden ser afectados por condiciones ambientales, mientras 
       que los ópticos son sensibles a la luz ambiental.
- - title: Modo de comunicación de los sensores de proximidad
+
+ - background: "../images/fondolineas.png"
    slide-data: |
+   <h2>Modo de comunicación de los sensores de proximidad</h2>
       Los **sensores de proximidad** pueden tener diferentes formas de comunicar sus señales:
 
       - **Salida digital**: La mayoría de los sensores proporcionan una señal de encendido/apagado (ON/OFF) cuando se detecta un objeto. 
