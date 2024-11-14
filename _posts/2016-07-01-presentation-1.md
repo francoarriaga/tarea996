@@ -225,36 +225,71 @@ slides:
  - title: 
  - background: "../images/fondomorado.png"
    slide-data: |
-      <h1 style="font-size: 50px;">Sensor de presión </h1>
-      Los **sensores de presión** son dispositivos que miden la presión de un fluido (líquido o gas) y la convierten en una señal 
-      eléctrica. Son ampliamente utilizados en aplicaciones industriales, automotrices, médicas y en sistemas de control.
+      <h1 style="font-size: 50px;">Sensor de presión</h1>
+      <p>
+        Los <strong>sensores de presión</strong> son dispositivos que miden la presión de un fluido (líquido o gas) y la convierten en una señal 
+        eléctrica. Son ampliamente utilizados en aplicaciones industriales, automotrices, médicas y en sistemas de control.
+      </p>
 
-      ### Tipos de sensores de presión
+      <h3>Tipos de sensores de presión</h3>
 
-      - **Sensores de presión absoluta**: Miden la presión con respecto a un vacío perfecto (0 Pa). Están calibrados para medir la 
-      presión absoluta, sin referencia a la presión atmosférica.
-  
-      - **Sensores de presión manométrica**: Miden la presión relativa con respecto a la presión atmosférica. Se utilizan para medir 
-      presiones superiores o inferiores a la presión ambiental.
-  
-      - **Sensores de presión diferencial**: Miden la diferencia entre dos puntos de presión. Son útiles para aplicaciones en las que se 
-      necesita comparar presiones en distintos puntos de un sistema.
-  
-      - **Sensores de presión piezoeléctricos**: Utilizan materiales piezoeléctricos que generan una carga eléctrica cuando se someten a 
-      una fuerza o presión.
-  
-      - **Sensores de presión capacitivos**: La presión cambia la distancia entre dos placas de un condensador, lo que varía su 
-      capacitancia. Este cambio se traduce en una señal eléctrica.
-  
-      - **Sensores de presión piezorresistivos**: Cambian su resistencia en función de la presión aplicada a un material semiconductor.
+      <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+          <th style="text-align: left; padding: 8px; border: 1px solid #ddd;"><strong>Tipo de Sensor</strong></th>
+          <th style="text-align: left; padding: 8px; border: 1px solid #ddd;"><strong>Descripción</strong></th>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión absoluta</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Miden la presión con respecto a un vacío perfecto (0 Pa). Están calibrados para medir la presión absoluta, sin referencia a la 
+            presión atmosférica.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión manométrica</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Miden la presión relativa con respecto a la presión atmosférica. Se utilizan para medir presiones superiores o inferiores a la 
+            presión ambiental.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión diferencial</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Miden la diferencia entre dos puntos de presión. Son útiles para aplicaciones en las que se necesita comparar presiones en 
+            distintos puntos de un sistema.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión piezoeléctricos</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Utilizan materiales piezoeléctricos que generan una carga eléctrica cuando se someten a una fuerza o presión.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión capacitivos</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            La presión cambia la distancia entre dos placas de un condensador, lo que varía su capacitancia. Este cambio se traduce en una 
+            señal eléctrica.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sensores de presión piezorresistivos</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Cambian su resistencia en función de la presión aplicada a un material semiconductor.
+          </td>
+        </tr>
+      </table>
+
 
  - title: Funcionamiento del sensor de presión
+ - background: "../images/fondomorado.png"
    slide-data: |
       La mayoría de los **sensores de presión** convierten la fuerza ejercida por un fluido en una señal eléctrica, ya sea a través de 
       principios como la **piezorresistencia**, la **capacitancia**, la **piezoelectricidad** o el **desplazamiento de un diafragma**. 
       La señal obtenida se interpreta como presión y puede estar en unidades como pascales (Pa), libras por pulgada cuadrada (psi) o 
       bares (bar).
  - title: Características del sensor de presión
+ - background: "../images/fondomorado.png"
    slide-data: |
       - **Precisión**: Algunos sensores, como los piezorresistivos y capacitivos, ofrecen alta precisión en sus mediciones.
       - **Rango de presión**: Varía según el tipo. Los sensores de presión absoluta pueden medir presiones desde el vacío absoluto hasta 
@@ -267,6 +302,7 @@ slides:
       en dispositivos pequeños.
 
  - title: Modo de comunicación del sensor de presión
+ - background: "../images/fondomorado.png"
    slide-data: |
       Los sensores de proximidad son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación sin 
       necesidad de contacto físico. Son ampliamente utilizados en automatización industrial, robótica, vehículos y aplicaciones de 
