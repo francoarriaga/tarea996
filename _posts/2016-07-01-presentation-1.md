@@ -128,7 +128,7 @@ slides:
 
 
  - title: 
- - background: "../images/fondarrugado.jpeg"
+ - background: "../images/fondoverde.jpg"
    slide-data: |
      <h1 style="font-size: 50px;">Sensores de temperatura </h1>
      Los **sensores de temperatura** son dispositivos utilizados para medir la temperatura en diferentes ambientes y procesos. Existen 
