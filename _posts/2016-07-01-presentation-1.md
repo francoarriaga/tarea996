@@ -20,7 +20,7 @@ slides:
      </ul>
      
  - title:
- 
+   background: "../images/fondolineas.png"
    slide-data: |
      <h1 style="font-size: 50px;">Sensores Ópticos </h1>
 
