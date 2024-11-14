@@ -50,12 +50,12 @@ slides:
           <img src="../images/receptor.png" alt="Receptor de luz" style="width: 100%;">
         </div>
 
-      </div>
+        </div> 
 
 
 
 
- - title: Funcionamiento general
+ - title: Funcionamiento general de la cos
    slide-data: |
      El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
      **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
