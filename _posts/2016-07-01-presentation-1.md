@@ -56,7 +56,7 @@ slides:
 
 
 
- - title: Funcionamiento general de la cos
+ - title: Funcionamiento general 
    background: "../images/fondolineas.png"
    slide-data: |
       <div style="width: 100%;">
@@ -74,6 +74,7 @@ slides:
 
    
  - title: Características principales
+ - background: "../images/fondolineas.png"
    slide-data: | 
      - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
      - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de 
@@ -84,12 +85,38 @@ slides:
      los **LIDAR**).
 
  - title: Modos de comunicación
-   slide-data: |
-     Los sensores ópticos pueden utilizar diferentes métodos para transmitir su señal, incluyendo:
-     - **Señal analógica**: Donde la salida es una variación continua que corresponde a la intensidad de la luz recibida.
-     - **Señal digital**: Que representa condiciones específicas como "presencia" o "ausencia" de un objeto.
-     - **Protocolos de comunicación**: Sensores más avanzados pueden usar buses de comunicación como **I2C**, **RS-485**, o incluso 
-     tecnologías inalámbricas como **Bluetooth** o **Wi-Fi** para transmitir información en sistemas más complejos.
+  slide-data: |
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+      <!-- Columna 1: Señal Analógica -->
+      <div style="width: 30%; padding-right: 10px;">
+        <h3>Señal Analógica</h3>
+        <p>
+          Donde la salida es una variación continua que corresponde a la intensidad de la luz recibida. Este tipo de señal permite
+          una medición precisa de los cambios en la luz.
+        </p>
+      </div>
+
+      <!-- Columna 2: Señal Digital -->
+      <div style="width: 30%; padding-right: 10px;">
+        <h3>Señal Digital</h3>
+        <p>
+          Representa condiciones específicas como "presencia" o "ausencia" de un objeto. Este tipo de señal es común en aplicaciones
+          que requieren detección binaria simple.
+        </p>
+      </div>
+
+      <!-- Columna 3: Protocolos de Comunicación -->
+      <div style="width: 30%;">
+        <h3>Protocolos de Comunicación</h3>
+        <p>
+          Sensores más avanzados pueden usar buses de comunicación como <strong>I2C</strong>, <strong>RS-485</strong>, o tecnologías 
+          inalámbricas como <strong>Bluetooth</strong> o <strong>Wi-Fi</strong> para transmitir información en sistemas más complejos.
+        </p>
+      </div>
+
+    </div>
+
 
  - title: 
    slide-data: |
