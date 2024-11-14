@@ -46,8 +46,8 @@ slides:
 
         <!-- Sección de imágenes a la derecha -->
         <div style="width: 35%; display: flex; flex-direction: column; align-items: center;">
-          <img src="../images/emisor.png" alt="Emisor de luz" style="width: 100%; margin-bottom: 20px;">
-          <img src="../images/receptor.png" alt="Receptor de luz" style="width: 100%;">
+          <img src="../images/emisordeluz.jpg" alt="Emisor de luz" style="width: 100%; margin-bottom: 20px;">
+          <img src="../images/receptordeluz.webp" alt="Receptor de luz" style="width: 100%;">
         </div>
 
         </div> 
