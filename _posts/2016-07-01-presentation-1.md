@@ -18,7 +18,11 @@ slides:
        <li>NOMBRE DE LA CARRERA: INGENIERÍA EN SISTEMAS COMPUTACIONALES.</li>
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
-     
+
+- title:
+   background: "../images/fondolineas.png"
+   slide-data: |
+
     # Sensores Ópticos 
     
     Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos son esenciales en aplicaciones de automatización, 
