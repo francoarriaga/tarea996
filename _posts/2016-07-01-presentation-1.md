@@ -292,18 +292,17 @@ slides:
       pascales (Pa), libras por pulgada cuadrada (psi) o bares (bar).
       </p>
 
- - title: Características del sensor de presión
  - background: "../images/fondomorado.png"
    slide-data: |
-      - **Precisión**: Algunos sensores, como los piezorresistivos y capacitivos, ofrecen alta precisión en sus mediciones.
-      - **Rango de presión**: Varía según el tipo. Los sensores de presión absoluta pueden medir presiones desde el vacío absoluto hasta 
-      miles de pascales. Los sensores industriales suelen medir desde milibares hasta varios cientos de bares.
-      - **Durabilidad**: Sensores piezoeléctricos y piezorresistivos son robustos y adecuados para aplicaciones en condiciones extremas 
-      de temperatura y presión.
-      - **Sensibilidad**: Los sensores piezoeléctricos son altamente sensibles a los cambios rápidos de presión, mientras que los 
-      sensores capacitivos son más adecuados para mediciones estables y precisas.
-      - **Tamaño**: Algunos sensores, como los capacitivos y piezorresistivos, pueden ser muy compactos, lo que permite su integración 
-      en dispositivos pequeños.
+      <h2>Características del sensor de presión</h2>
+      <ul>
+      <li><strong>Precisión</strong>: Algunos sensores, como los piezorresistivos y capacitivos, ofrecen alta precisión en sus mediciones.</li>
+      <li><strong>Rango de presión</strong>: Varía según el tipo. Los sensores de presión absoluta pueden medir presiones desde el vacío absoluto hasta miles de pascales. Los sensores industriales suelen medir desde milibares hasta varios cientos de bares.</li>
+      <li><strong>Durabilidad</strong>: Sensores piezoeléctricos y piezorresistivos son robustos y adecuados para aplicaciones en condiciones extremas de temperatura y presión.</li>
+      <li><strong>Sensibilidad</strong>: Los sensores piezoeléctricos son altamente sensibles a los cambios rápidos de presión, mientras que los sensores capacitivos son más adecuados para mediciones estables y precisas.</li>
+      <li><strong>Tamaño</strong>: Algunos sensores, como los capacitivos y piezorresistivos, pueden ser muy compactos, lo que permite su integración en dispositivos pequeños.</li>
+       </ul>
+
 
  - title: Modo de comunicación del sensor de presión
  - background: "../images/fondomorado.png"
