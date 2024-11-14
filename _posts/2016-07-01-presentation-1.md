@@ -22,11 +22,12 @@ slides:
  - title:
    background: "../images/fondolineas.png"
    slide-data: |
+        <h1 style="font-size: 50px;">Sensores Ópticos</h1>
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
         <!-- Sección de texto a la izquierda -->
         <div style="width: 60%; padding-right: 20px;">
-          <h1 style="font-size: 50px;">Sensores Ópticos</h1>
+          
           <p>
             Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos
             son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y
@@ -56,10 +57,21 @@ slides:
 
 
  - title: Funcionamiento general de la cos
-   slide-data: |
-     El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
-     **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
-     propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+  background: "../images/fondolineas.png"
+  slide-data: |
+    <div style="width: 100%;">
+      <p>
+        El principio básico de funcionamiento de los <strong>sensores ópticos</strong> es la emisión de luz (ya sea <strong>infrarroja</strong>, 
+        <strong>visible</strong> o <strong>láser</strong>) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo 
+        de sensor, pueden medir diferentes propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+      </p>
+      
+      <!-- Imagen debajo del texto -->
+      <div style="display: flex; justify-content: center; margin-top: 20px;">
+        <img src="../images/infrarojo.jpg" alt="Funcionamiento de los sensores ópticos" style="width: 60%;">
+      </div>
+    </div>
+
    
  - title: Características principales
    slide-data: | 
