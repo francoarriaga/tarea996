@@ -143,13 +143,31 @@ slides:
      - **Sensores de temperatura de semiconductores**: Basados en diodos o transistores que cambian su corriente de salida según la 
      temperatura.
      - **Sensores Infrarrojos (IR)**: Miden la radiación térmica emitida por un objeto y calculan la temperatura sin contacto físico.
+  
  - title: Funcionamiento de los sensores de temperatura
+   background: "../images/fondoverde.jpg"
    slide-data: |
-     El principio básico de funcionamiento de los **sensores ópticos** es la emisión de luz (ya sea **infrarroja**, **visible** o 
-     **láser**) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de sensor, pueden medir diferentes 
-     propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+      <!-- Sección de texto a la izquierda -->
+      <div style="width: 60%; padding-right: 20px;">
+        <p>
+          El principio básico de funcionamiento de los <strong>sensores ópticos</strong> es la emisión de luz (ya sea <strong>infrarroja</strong>, 
+          <strong>visible</strong> o <strong>láser</strong>) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo de 
+          sensor, pueden medir diferentes propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+        </p>
+      </div>
+
+      <!-- Imagen a la derecha -->
+      <div style="width: 35%; display: flex; justify-content: center;">
+        <img src="../images/sensorluz2.png" alt="Funcionamiento de los sensores de temperatura" style="width: 100%;">
+      </div>
+
+     </div>
+
    
  - title: Características de los sensores de temperatura
+ - background: "../images/fondoverde.jpg"
    slide-data: |
      - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
      - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de   
@@ -159,6 +177,7 @@ slides:
      - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como        los **LIDAR**).
 
  - title: Modo de comunicación de los sensores de temperatura
+ - background: "../images/fondoverde.jpg"
    slide-data: |
       Los **sensores de temperatura** pueden comunicar su medición de diferentes maneras:
       - **Señal analógica**: La mayoría de los sensores más simples (termopares, RTD, termistores) generan una señal analógica 
