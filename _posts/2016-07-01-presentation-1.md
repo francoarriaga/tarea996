@@ -57,20 +57,20 @@ slides:
 
 
  - title: Funcionamiento general de la cos
-  background: "../images/fondolineas.png"
-  slide-data: |
-    <div style="width: 100%;">
-      <p>
-        El principio básico de funcionamiento de los <strong>sensores ópticos</strong> es la emisión de luz (ya sea <strong>infrarroja</strong>, 
-        <strong>visible</strong> o <strong>láser</strong>) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo 
-        de sensor, pueden medir diferentes propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
-      </p>
-      
-      <!-- Imagen debajo del texto -->
-      <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <img src="../images/infrarojo.jpg" alt="Funcionamiento de los sensores ópticos" style="width: 60%;">
+   background: "../images/fondolineas.png"
+   slide-data: |
+      <div style="width: 100%;">
+        <p>
+          El principio básico de funcionamiento de los <strong>sensores ópticos</strong> es la emisión de luz (ya sea <strong>infrarroja</strong>, 
+          <strong>visible</strong> o <strong>láser</strong>) y la detección de cómo esta luz interactúa con el entorno. Dependiendo del tipo 
+          de sensor, pueden medir diferentes propiedades: si la luz es bloqueada, reflejada, absorbida o desviada.
+        </p>
+        
+        <!-- Imagen debajo del texto -->
+        <div style="display: flex; justify-content: center; margin-top: 20px;">
+          <img src="../images/infrarojo.jpg" alt="Funcionamiento de los sensores ópticos" style="width: 60%;">
+        </div>
       </div>
-    </div>
 
    
  - title: Características principales
