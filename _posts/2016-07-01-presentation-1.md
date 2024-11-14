@@ -166,15 +166,37 @@ slides:
      </div>
 
    
- - title: Características de los sensores de temperatura
+ - title: 
  - background: "../images/fondoverde.jpg"
    slide-data: |
-     - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
-     - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de   
-     alta velocidad.
-     - **Tamaño compacto**: Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.
-     - **Inmunidad a interferencias electromagnéticas**: Al utilizar luz, no se ven afectados por campos electromagnéticos.
-     - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como        los **LIDAR**).
+      <h2>Características de los sensores de temperatura</h2>
+    
+      <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+          <th style="text-align: left; padding: 8px; border: 1px solid #ddd;"><strong>Característica</strong></th>
+          <th style="text-align: left; padding: 8px; border: 1px solid #ddd;"><strong>Descripción</strong></th>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Precisión</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Velocidad de respuesta</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de alta velocidad.</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Tamaño compacto</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">Pueden ser pequeños, lo que facilita su integración en sistemas electrónicos.</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Inmunidad a interferencias electromagnéticas</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">Al utilizar luz, no se ven afectados por campos electromagnéticos.</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;"><strong>Alcance</strong></td>
+          <td style="padding: 8px; border: 1px solid #ddd;">Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como los <strong>LIDAR</strong>).</td>
+        </tr>
+      </table>
 
  - title: Modo de comunicación de los sensores de temperatura
  - background: "../images/fondoverde.jpg"
