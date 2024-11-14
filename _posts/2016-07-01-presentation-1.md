@@ -281,9 +281,8 @@ slides:
       </table>
 
 
-  
- - background: "../images/fondomorado.png"
  - title: "<h2>Funcionamiento del sensor de presión</h2>"
+ - background: "../images/fondomorado.png"
    slide-data: |
       <p>
       La mayoría de los <strong>sensores de presión</strong> convierten la fuerza ejercida por un fluido en una señal eléctrica, ya sea a 
