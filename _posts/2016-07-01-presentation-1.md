@@ -56,9 +56,10 @@ slides:
 
 
 
- - title: Funcionamiento general 
+ - title: 
    background: "../images/fondolineas.png"
    slide-data: |
+      <h2>Funcionamiento general </h2>
       <div style="width: 100%;">
         <p>
           El principio básico de funcionamiento de los <strong>sensores ópticos</strong> es la emisión de luz (ya sea <strong>infrarroja</strong>, 
@@ -73,9 +74,10 @@ slides:
       </div>
 
    
- - title: Características principales
+ - title: 
  - background: "../images/fondolineas.png"
    slide-data: | 
+    *Características principales
      - **Precisión**: Los sensores ópticos pueden detectar cambios muy pequeños en su entorno.
      - **Velocidad de respuesta**: La mayoría de los sensores ópticos son muy rápidos, lo que los hace adecuados para aplicaciones de 
      alta velocidad.
@@ -84,9 +86,10 @@ slides:
      - **Alcance**: Los sensores pueden trabajar a diferentes distancias, dependiendo de su tipo (algunos hasta varios kilómetros, como 
      los **LIDAR**).
 
- - title: Modos de comunicación
+ - title: 
  - background: "../images/fondolineas.png"
    slide-data: |
+    <h2>Modos de comunicación</h2>
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
       <!-- Columna 1: Señal Analógica -->
