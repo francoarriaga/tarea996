@@ -23,34 +23,35 @@ slides:
     background: "../images/fondolineas.png"
     slide-data: |
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-          
-          <!-- Sección de texto a la izquierda -->
-          <div style="width: 60%; padding-right: 20px;">
-            <h1 style="font-size: 50px;">Sensores Ópticos</h1>
-            <p>
-              Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos 
-              son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y 
-              recepción de luz.
-            </p>
-            <h3>Funcionamiento</h3>
-            <p>Un sensor óptico consta de:</p>
-            <ul>
-              <li><strong>Emisor de luz</strong>: Puede ser un LED, láser o infrarrojo.</li>
-              <li><strong>Receptor</strong>: Fototransistor o fotodiodo.</li>
-            </ul>
-            <p>
-              El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La 
-              variación de luz se traduce en una señal eléctrica que se procesa para tomar decisiones automáticas.
-            </p>
-          </div>
 
-          <!-- Sección de imágenes a la derecha -->
-          <div style="width: 35%; display: flex; flex-direction: column; align-items: center;">
-            <img src="../images/emisor.png" alt="Emisor de luz" style="width: 100%; margin-bottom: 20px;">
-            <img src="../images/receptor.png" alt="Receptor de luz" style="width: 100%;">
-          </div>
-
+        <!-- Sección de texto a la izquierda -->
+        <div style="width: 60%; padding-right: 20px;">
+          <h1 style="font-size: 50px;">Sensores Ópticos</h1>
+          <p>
+            Los sensores ópticos detectan cambios en la luz (intensidad, color o posición) para generar una señal de salida. Estos dispositivos
+            son esenciales en aplicaciones de automatización, robótica y sistemas de seguridad. El funcionamiento se basa en la emisión y
+            recepción de luz.
+          </p>
+          <h3>Funcionamiento</h3>
+          <p>Un sensor óptico consta de:</p>
+          <ul>
+            <li><strong>Emisor de luz</strong>: Puede ser un LED, láser o infrarrojo.</li>
+            <li><strong>Receptor</strong>: Fototransistor o fotodiodo.</li>
+          </ul>
+          <p>
+            El emisor envía un haz de luz hacia un objeto, y el receptor mide la cantidad de luz reflejada, interrumpida o absorbida. La
+            variación de luz se traduce en una señal eléctrica que se procesa para tomar decisiones automáticas.
+          </p>
         </div>
+
+        <!-- Sección de imágenes a la derecha -->
+        <div style="width: 35%; display: flex; flex-direction: column; align-items: center;">
+          <img src="../images/emisor.png" alt="Emisor de luz" style="width: 100%; margin-bottom: 20px;">
+          <img src="../images/receptor.png" alt="Receptor de luz" style="width: 100%;">
+        </div>
+
+      </div>
+
 
 
 
