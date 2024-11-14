@@ -301,7 +301,7 @@ slides:
       <li><strong>Durabilidad</strong>: Sensores piezoeléctricos y piezorresistivos son robustos y adecuados para aplicaciones en condiciones extremas de temperatura y presión.</li>
       <li><strong>Sensibilidad</strong>: Los sensores piezoeléctricos son altamente sensibles a los cambios rápidos de presión, mientras que los sensores capacitivos son más adecuados para mediciones estables y precisas.</li>
       <li><strong>Tamaño</strong>: Algunos sensores, como los capacitivos y piezorresistivos, pueden ser muy compactos, lo que permite su integración en dispositivos pequeños.</li>
-       </ul>
+      </ul>
 
 
  - background: "../images/fondomorado.png"
@@ -328,7 +328,7 @@ slides:
 
       </div>
 
-   background: "../images/fondolineas.png"
+ - background: "../images/fondolineas.png"
    slide-data: |
       <h1 style="font-size: 50px;">Sensores de proximidad</h1>
       Los **sensores de proximidad** son dispositivos que detectan la presencia o ausencia de un objeto dentro de su rango de operación 
