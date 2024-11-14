@@ -198,18 +198,32 @@ slides:
         </tr>
       </table>
 
- - title: Modo de comunicación de los sensores de temperatura
+ - title: 
  - background: "../images/fondoverde.jpg"
    slide-data: |
-      Los **sensores de temperatura** pueden comunicar su medición de diferentes maneras:
-      - **Señal analógica**: La mayoría de los sensores más simples (termopares, RTD, termistores) generan una señal analógica 
-      proporcional al cambio de temperatura. Esta señal necesita ser convertida para su interpretación.
-      - **Señal digital**: Sensores más modernos, como los de semiconductores, envían directamente señales digitales, a menudo 
-      utilizando buses de comunicación como **I2C**, **SPI** o **1-Wire**.
-      - **Protocolo de comunicación inalámbrica**: Algunos sensores de temperatura infrarrojos y semiconductores más avanzados pueden 
-      comunicarse a través de **Wi-Fi**, **Bluetooth** o **Zigbee** para aplicaciones como monitoreo remoto.
+      <h2>Modo de comunicación de los sensores de temperatura</h2>
+      <p>
+        Los <strong>sensores de temperatura</strong> pueden comunicar su medición de diferentes maneras:
+      </p>
+      <ul>
+        <li>
+          <strong>Señal analógica</strong>: La mayoría de los sensores más simples (termopares, RTD, termistores) generan una señal analógica 
+          proporcional al cambio de temperatura. Esta señal necesita ser convertida para su interpretación.
+        </li>
+        <li>
+          <strong>Señal digital</strong>: Sensores más modernos, como los de semiconductores, envían directamente señales digitales, a menudo 
+          utilizando buses de comunicación como <strong>I2C</strong>, <strong>SPI</strong> o <strong>1-Wire</strong>.
+        </li>
+        <li>
+          <strong>Protocolo de comunicación inalámbrica</strong>: Algunos sensores de temperatura infrarrojos y semiconductores más avanzados 
+          pueden comunicarse a través de <strong>Wi-Fi</strong>, <strong>Bluetooth</strong> o <strong>Zigbee</strong> para aplicaciones como 
+          monitoreo remoto.
+        </li>
+      </ul>
+
 
  - title: 
+ - background: "../images/fondomorado.png"
    slide-data: |
       <h1 style="font-size: 50px;">Sensor de presión </h1>
       Los **sensores de presión** son dispositivos que miden la presión de un fluido (líquido o gas) y la convierten en una señal 
